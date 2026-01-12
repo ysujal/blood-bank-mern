@@ -58,9 +58,9 @@ The React app will be accessible at http://localhost:3000.
 - Backend:
   JWT_SECRET, MONGO_URL, DEV_MODE = development, PORT = 8080
 
-### Deployment
+<!-- ### Deployment
 - Backend: Deployed on Render.
-- Frontend: Deployed on Netlify.
+- Frontend: Deployed on Netlify. -->
 
 ## Screenshots
 ![Alt text](screenshots/blood.png "1")
